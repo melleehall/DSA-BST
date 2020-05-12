@@ -1,3 +1,5 @@
+// 3. Create a BST class
+
 class BinarySearchTree {
     // key = null represents an empty tree
     // parent = null represents the root node
@@ -138,3 +140,5 @@ class BinarySearchTree {
     }
 
 }
+
+module.exports = BinarySearchTree;
